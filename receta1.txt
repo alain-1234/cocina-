@@ -2,14 +2,14 @@ CEVICHE
 
 INGREDIENTES
 
--Camaron
--cebolla cabezona 
--tomate
--aji
--cilantro
--ajo
--limon
--sal
+-Camaron 2500$
+-cebolla cabezona 5000$ 
+-tomate 400$
+-aji 1000$
+-cilantro 300$
+-ajo 200$
+-limon 250$
+-sal 25000$
 
 
 HERRAMIENTAS
